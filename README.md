@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* Projeto realizado do curso Ruby on Rails 5 parte 1: Fundamentos da plataforma de cursos Alura.
 
-Things you may want to cover:
+Projeto básico de uma loja onde é possível realizar o cadastro e remoção de um produto juntamente com suas informações (descrição, preço,quantidade) e relizar também 
+realizar a busca de algum produto cadastrado na loja.
 
-* Ruby version
+Algumas gems podem estar desatualizadas.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
